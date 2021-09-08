@@ -287,7 +287,7 @@ print(a1)
 print(a2)
 print(a3)
 
-#rotation +-15 degree considered
+#rotation +-15 degree  is considered
 #works better if there is less mixture of colours inside each box
 
 
