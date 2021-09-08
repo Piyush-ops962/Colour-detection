@@ -287,4 +287,8 @@ print(a1)
 print(a2)
 print(a3)
 
+#rotation +-15 degree considered
+#works better if there is less mixture of colours inside each box
+
+
 cv2.waitKey(0)
