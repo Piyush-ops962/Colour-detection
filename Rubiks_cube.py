@@ -5,7 +5,7 @@ img = cv2.imread("6.jpg")
 img=cv2.resize(img,(500,492))
 p=img.shape
 ar=[0,0,0,0,0,0,0,0,0]
-cv2.imshow('img',img)
+#cv2.imshow('img',img)
 img1=np.zeros(p,dtype=None)
 
 #img = cv2.GaussianBlur(img,(3,3),0)
@@ -291,4 +291,4 @@ print(a3)
 #works better if there is less mixture of colours inside each box
 
 
-cv2.waitKey(0)
+#cv2.waitKey(0)
